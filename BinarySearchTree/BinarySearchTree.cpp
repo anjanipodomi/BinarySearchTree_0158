@@ -114,10 +114,8 @@ public:
 	}
 };
 
-
-
 int main()
 {
-   
+
 }
 
